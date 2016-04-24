@@ -1,0 +1,47 @@
+#Main2 {
+	height:90px;
+	background-color:ebebeb;
+	display:inline-block;
+
+	
+
+}
+
+ul {
+	margin:0;
+	padding:0;
+	left:200px;
+	position:relative;
+	font-weight:bold;
+	
+}
+
+li {
+	list-style-type:none;
+	float:left;
+	display:block;
+	width:150px;
+	height:90px;
+	text-align:center;
+	line-height:90px;
+	font-family:Comic Sans MS, cursive, sans-serif;
+	font-size:14.8px;
+	
+
+
+	
+}
+
+li a {
+	text-decoration:none;
+	color:black;
+	
+
+}
+
+li:Hover {
+	background-color:pink;
+	 background: -webkit-linear-gradient(#f1efef, #fcfbfb);
+  background:    -moz-linear-gradient(#f1efef, #fcfbfb);
+  background:         linear-gradient(#f1efef, #fcfbfb);
+}

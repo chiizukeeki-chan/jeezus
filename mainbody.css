@@ -1,0 +1,44 @@
+#Container {
+	width:auto;
+	height:auto;
+	margin-left:-10;
+	margin-right:-7.5;
+	margin-top:-61.8;
+	
+	
+}
+#Main1 {
+
+	height:90px;
+	background-color:black;
+	
+	
+}
+#Main2 {
+	height:68.8px;
+	background-color:#ebebeb;
+	
+}
+#Main3 {
+	height:460px;
+	background-color:#fcfbfb;
+	  background: #fcfbfb;
+  background: -webkit-linear-gradient(#fcfbfb, #f1efef);
+  background:    -moz-linear-gradient(#fcfbfb, #f1efef);
+  background:         linear-gradient(#fcfbfb, #f1efef);
+  
+}
+#Main4 {
+	height:400px;
+	background-color:#CCC;
+	
+	background: #fcfbfb;
+  background: -webkit-linear-gradient(#fcfbfb, #f1efef);
+  background:    -moz-linear-gradient(#fcfbfb, #f1efef);
+  background:         linear-gradient(#fcfbfb, #f1efef);
+
+}
+#Main5 {
+	height:70px;
+	background-color:white;
+}
